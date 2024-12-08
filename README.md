@@ -23,4 +23,4 @@ For all support questions, ask in our [Discord](https://www.discord.gg/projectsl
 
 
 #Note:
-*Removed Weapon,SOP,Rooster for optimization and quick UI load.
+* Removed Weapon,SOP,Rooster for optimization and quick UI load.
