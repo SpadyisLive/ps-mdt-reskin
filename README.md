@@ -1,6 +1,6 @@
 # My Css Edit
 
-- ![image](https://github.com/ItzMuri/ps-mdt/ui/)
+- ![image](https://github.com/SpadyisLive/ps-mdt-reskin/blob/main/ui/img/mdt.png)
 
 
 
