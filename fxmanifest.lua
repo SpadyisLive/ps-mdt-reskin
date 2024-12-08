@@ -1,18 +1,8 @@
-
-
-
-
-
-
-
-
-
-
 fx_version 'cerulean'
 game 'gta5'
 
 author 'Flawws, Flakey, Idris and the Project Sloth team'
-description 'EchoRP MDT Rewrite for QBCore'
+description 'EchoRP MDT Rewrite for QBCore ui edited by Spady'
 version '2.6.6'
 
 lua54 'yes'
