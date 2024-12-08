@@ -22,5 +22,5 @@ For all support questions, ask in our [Discord](https://www.discord.gg/projectsl
 * Run the attached SQL script (mdt.sql)
 
 
-#Note:
+# Note:
 * Removed Weapon,SOP,Rooster for optimization and quick UI load.
