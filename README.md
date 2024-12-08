@@ -1,10 +1,7 @@
 # My Css Edit
--LSPD
-- ![image](https://github.com/ItzMuri/ps-mdt/assets/88394932/eb7d0e64-3fda-4c53-870d-5273ad75b99f)
 
-- ![image](https://github.com/ItzMuri/ps-mdt/assets/88394932/cd15d30e-d28e-4aa6-9f88-c0c7c63ac876)
+- ![image](https://imgur.com/a/c8Pu977)
 
-- ![image](https://github.com/ItzMuri/ps-mdt/assets/88394932/5af1b1c3-de4d-40cf-a600-262699558d3f)
 
 
 # Project Sloth MDT
